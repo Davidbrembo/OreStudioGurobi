@@ -6,7 +6,6 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.Scanner;
-
 import gurobi.GRB;
 import gurobi.GRBConstr;
 import gurobi.GRBEnv;
